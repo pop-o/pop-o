@@ -1,7 +1,7 @@
 
 <h1 align='left'>Hi there 👋, I'm Poem!</h1>
 
-<h3>I'm an aspiring **Machine Learning Engineer** and currently an **Intern in Machine Learning**. I’m also exploring the world of **backend development** and combining it with ML to build robust and scalable systems.</h3>
+<h3>I'm an aspiring <bold>Machine Learning Engineer</bold> and currently an <bold>Intern in Machine Learning</bold>. I’m also exploring the world of <bold>backend development</bold> and combining it with ML to build robust and scalable systems.</h3>
 
 🌏 **From:** Nepal 🇳🇵  
 🎓 **Currently Learning:** Deep Learning, Model Deployment, and Backend Development  
