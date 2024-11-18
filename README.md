@@ -3,10 +3,10 @@
 
 <h3>I'm an aspiring <bold>Machine Learning Engineer</bold> and currently an <bold>Intern in Machine Learning</bold>. I’m also exploring the world of <bold>backend development</bold> and combining it with ML to build robust and scalable systems.</h3>
 <div>
-  <p><strong>🌏 <span style="font-weight: normal;">From:</span></strong> Nepal 🇳🇵</p>
-  <p><strong>🎓 <span style="font-weight: normal;">Currently Learning:</span></strong> Deep Learning, Model Deployment, and Backend Development</p>
-  <p><strong>💡 <span style="font-weight: normal;">Interests:</span></strong> AI, Natural Language Processing, and Cloud-based ML Solutions</p>
-  <p><strong>🌱 <span style="font-weight: normal;">Goals:</span></strong></p>
+  <h4><strong>🌏 <span style="font-weight: normal;">From:</span></strong> Nepal 🇳🇵</h4>
+  <h4><strong>🎓 <span style="font-weight: normal;">Currently Learning:</span></strong> Deep Learning, Model Deployment, and Backend Development</h4>
+  <h4><strong>💡 <span style="font-weight: normal;">Interests:</span></strong> AI, Natural Language Processing, and Cloud-based ML Solutions</h4>
+  <h4><strong>🌱 <span style="font-weight: normal;">Goals:</span></strong></h4>
   <ul>
     <li>To master building end-to-end ML pipelines.</li>
     <li>To contribute to impactful open-source ML projects.</li>
