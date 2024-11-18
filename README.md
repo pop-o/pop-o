@@ -4,6 +4,11 @@
 I'm an aspiring **Machine Learning Engineer** and currently an **Intern in Machine Learning**. I’m also exploring the world of **backend development** and combining it with ML to build robust and scalable systems.
 
 🌏 **From:** Nepal 🇳🇵  
+🎓 **Currently Learning:** Deep Learning, Model Deployment, and Backend Development  
+💡 **Interests:** AI, Natural Language Processing, and Cloud-based ML Solutions  
+🌱 **Goals:**  
+- To master building end-to-end ML pipelines.  
+- To contribute to impactful open-source ML projects. 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pop-o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
